@@ -455,7 +455,10 @@ html {
     margin-right: 0; 
 }
   
-
+.recipe-pic-gallery:focus {
+    outline: 2px solid #C67B93; 
+}
+  
 
 /* ---------------- Reduce Motion ---------------- */
 @media (prefers-reduced-motion: reduce) {
